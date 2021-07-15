@@ -11,3 +11,8 @@ git diff 文件名
 # git log 查看历史提交记录
 
 # git checkout -- 文件名 丢弃工作区的修改
+
+# git branch dev   
+# git checkout dev   
+
+# git checkout -b dev  创建并切换到dev分支
