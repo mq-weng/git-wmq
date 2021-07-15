@@ -9,3 +9,5 @@
 git diff 文件名
 
 # git log 查看历史提交记录
+
+# git checkout -- 文件名 丢弃工作区的修改
