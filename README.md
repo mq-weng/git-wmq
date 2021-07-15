@@ -12,7 +12,7 @@ git diff 文件名
 
 # git checkout -- 文件名 丢弃工作区的修改
 
-# git branch dev   
-# git checkout dev   
+# git branch dev   创建分支
+# git checkout dev   切换分支
 
 # git checkout -b dev  创建并切换到dev分支
