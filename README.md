@@ -1,7 +1,11 @@
 ## 做git练习
 
-# git提交到版本库啦
-# wwwwwww
-#  444
- 5
- 
+# git reset 回退版本
+1.可以直接写版本号
+2.用 head^ 回到上一版
+
+# git status 查看仓库状态
+# git diff 显示工作区与缓存区的区别
+git diff 文件名
+
+# git log 查看历史提交记录
