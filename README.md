@@ -22,3 +22,7 @@ git diff 文件名
 # git stash list 查看存储区的清单
 # git apply [index] 恢复指定的stash      git stash drop 清空stash
 # git stash pop 前两步的合体
+# git cherry-pick  43c4f4b..ac1b8ad   能复制一个特定的提交到当前分支
+# git remote    git remote -v 查看远程的仓库
+# 建立本地分支和远程分支的关联，使用git branch --set-upstream branch-name origin/branch-name
+# 在本地创建和远程分支对应的分支，使用git checkout -b branch-name origin/branch-name，本地和远程分支的名称最好一致；
