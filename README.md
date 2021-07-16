@@ -18,8 +18,7 @@ git diff 文件名
 # git checkout -b dev  创建并切换到dev分支  git switch -c dev也中
 # git merge <name> 合并分支
 
-# git stash 存储当前工作区
+# git stash 存储当前工作区 (当前分支不能提交，却需要切分支debug时用到)
 # git stash list 查看存储区的清单
 # git apply [index] 恢复指定的stash      git stash drop 清空stash
 # git stash pop 前两步的合体
-
